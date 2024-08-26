@@ -1,6 +1,8 @@
 # DOB-Calculator
 It's an application of date of birth calculator.
 
+**Link :** https://httpsashu404.github.io/DOB-Calculator/ <br/>
+
 <b>Languages use :</b> HTML, CSS, JS, Bootstrap.
 
 # Home page :
